@@ -1,28 +1,17 @@
 # Weather-Timeseries-Data-in-Bangladesh
 
-## Content
-The dataset covers over 1200 restaurant information in California. This dataset has 18 fields. The fields are given below:
-- Yelp URL
-- Restaurant Name
-- Street Address
-- Zip Code
-- City
-- State
-- Price Range
-- Phone
-- Rating
-- Number of Reviews
-- Website
-- Menu Link
-- Image 1
-- Image 2
-- Image 3
-- Category 1
-- Category 2
-- Category 3
+### Context
+Weather data for 34 years from 1990-2023. This data set contains daily weather data which can be useful for Time Series Forecasting and Analysis.
+### Content
+The data collected is daily frequency data for a particular latitude and longitude in Sylhet for the period 1990-2023. The data consists of the following variables:
+- Wind Speed at 2 Meters (m/s) 	
+- Specific Humidity at 2 Meters (g/kg) 	
+- Relative Humidity at 2 Meters (%) 	
+- Precipitation Corrected (mm/day) 	
+- Temperature at 2 Meters (C) 
 
-
-## Acknowledgements
-Data is from Yelp.
+### Source & Acknowledgements
+Data is collected from [Power Data Access Viewer](https://power.larc.nasa.gov/data-access-viewer/)
+The POWER Meteorological data is prediction or observation given by NASA's GMAO MERRA-2 assimilation model.
 
 Kaggle Dataset link: https://www.kaggle.com/datasets/farukalam/weather-timeseries-data-in-sylhet-bangladesh
